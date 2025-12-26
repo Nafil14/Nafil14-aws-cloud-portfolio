@@ -1,2 +1,3 @@
-# Nafil14-aws-cloud-portfolio
-Hands-on AWS Cloud Support projects
+# AWS Cloud Support Engineer Portfolio
+
+This repository contains practical Cloud Support projects demonstrating skills in AWS, Linux, Networking, Monitoring, Automation and Security.
